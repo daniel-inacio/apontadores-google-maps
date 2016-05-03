@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	initialize();
 
-	$.getJSON('enderecos.json', function (enderecos) {
+	$.getJSON('json/enderecos.json', function (enderecos) {
       
 		for(var i=0; i< enderecos.length; i++){
 
