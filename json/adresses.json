@@ -1,0 +1,26 @@
+[  
+   {  
+      "name":"Orgsystem",
+      "complete_address":"Rua Minas Gerais, 2041 - Vila Aparecida - Franca-SP",
+      "description":"Escritório",
+      "color": "red" 
+   },
+   {  
+      "name":"Magazine Luiza",
+      "complete_address":"Av. Brasil, 317 - Vila Aparecida, Franca - SP",
+      "description":"Eletrodomestico",
+      "color": "blue"
+   },
+   {  
+      "name":"Walmart",
+      "complete_address":"Av. Antônio Barbosa Filho, 181 - Jardim Francano, Franca - SP",
+      "description":"Supermecado",
+      "color": "blue" 
+   },
+   {  
+      "name":"Amazonas",
+      "complete_address":"Av. Rio Branco, 745 Jardim Francano - Franca - SP",
+      "description":"Industria",
+      "color": "green" 
+   }
+]
